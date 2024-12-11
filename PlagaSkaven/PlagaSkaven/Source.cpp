@@ -5,6 +5,6 @@ void main() {
 
 	std::string username;
 	std::cin >> username;
-	std::cout << "Saludos " <<  username  << " , Bienvenido al Clan" << std::endl;
+	std::cout << " Saludos " <<  username  << " , Bienvenido al Clan" << std::endl;
 
 }
